@@ -12,17 +12,17 @@ nav_external_links:
     hide_icon: false # set to true to hide the external link icon - defaults to false
     
  - title: Kitbashery on Discord
-    url: 
+    url: https://github.com/Kitbashery
     hide_icon: false
     
 - title: Kitbashery on Unity Asset Store
-    url: 
+    url: https://github.com/Kitbashery
     hide_icon: false
     
  - title: Commission a Feature
-    url: 
+    url: https://github.com/Kitbashery
     hide_icon: false
     
 - title: Leave a Tip
-    url: 
+    url: https://github.com/Kitbashery
     hide_icon: false
