@@ -6,40 +6,22 @@ description: "Kitbashery description placeholder."
 permalink: /
 ---
 
-## Kitbashery
+# Kitbashery
 
-You can use the [editor on GitHub](https://github.com/Kitbashery/kitbashery.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Kitbashery creates and maintains a collection of Unity assets as a freemium service.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why Freemium?
 
-### Markdown
+After years of working in Unity with thousands of dollars invested in the Unity Asset Store both as a publisher and consumer I found that:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* It is unsustainable for most asset publishers to offer unlimited free suport and feature updates for life.
+* The consumer could be left with a broken, unsupported or close source asset no matter the inital price tag.
+* Paid upgrades split the user base and don't have a "try before you buy" option.
 
-```markdown
-Syntax highlighted code block
+So Kitbashery was created to:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kitbashery/kitbashery.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Provide assets free of an initial charge. No more paying for expensive broken assets.
+* If you like the asset then you can tip or pay what you want later.
+* Assets & documentation are open-source and can be maintained in case the main developer suddenly kicks the bucket.
+* Official support is provided via a crowdfunding subscription model.
+* Feature requests/new assets are developed on a per commission basis. (or added by the community)
