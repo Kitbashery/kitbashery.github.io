@@ -1,4 +1,4 @@
-# kitbashery.github.io
+# Kitbashery.com
 
 
 Kitbashery's website hosted by Github Pages.
