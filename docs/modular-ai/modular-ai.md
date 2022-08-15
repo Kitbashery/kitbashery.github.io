@@ -3,7 +3,7 @@ layout: default
 title: Modular AI
 nav_order: 3
 has_children: true
-permalink: /docs/ModularAI
+permalink: /docs/modular-ai
 ---
 
 # ModularAI
