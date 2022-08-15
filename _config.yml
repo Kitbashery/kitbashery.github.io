@@ -1,6 +1,6 @@
 remote_theme: kitbashery/just-the-docs
 
-title: "kitbashery.com"
+title: kitbashery.com
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
@@ -11,18 +11,22 @@ nav_external_links:
     url: https://github.com/Kitbashery
     hide_icon: false # set to true to hide the external link icon - defaults to false
     
+nav_external_links:
  - title: Kitbashery on Discord
     url: https://github.com/Kitbashery
     hide_icon: false
     
+nav_external_links:
 - title: Kitbashery on Unity Asset Store
     url: https://github.com/Kitbashery
     hide_icon: false
-    
+
+nav_external_links:
  - title: Commission a Feature
     url: https://github.com/Kitbashery
     hide_icon: false
-    
+
+nav_external_links:
 - title: Leave a Tip
     url: https://github.com/Kitbashery
     hide_icon: false
