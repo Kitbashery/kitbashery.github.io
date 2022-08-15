@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Kitbashery description placeholder."
+permalink: /
+---
+
+## Kitbashery
 
 You can use the [editor on GitHub](https://github.com/Kitbashery/kitbashery.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
