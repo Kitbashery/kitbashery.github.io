@@ -23,5 +23,17 @@ So Kitbashery was created to:
 * Provide assets free of an initial charge. No more paying for expensive broken assets.
 * If you like the asset then you can tip or pay what you want later.
 * Assets & documentation are open-source and can be maintained in case the main developer suddenly kicks the bucket.
-* Official support is provided via a crowdfunding subscription model.
-* Feature requests/new assets are developed on a per commission basis. (or added by the community)
+* Long term maintenance and support funded via a crowdfunding subscription model.
+* Feature requests/new assets are developed on a per commission basis (or added by the community).
+
+
+## Where to Download Assets?
+
+1. The Unity Asset Store will have packages for the current Unity LTS version.
+2. The most recent version can be downloaded from the asset's product page on this site.
+3. Legacy versions can be found in the asset's GitHub repository's Releases tab.
+4. Assets can be downloaded from Kitbashery's Ko-Fi store for free or you can "pay what you want".
+
+Assets download from the Unity Asset Store will be automatically added to Unity's package manager.
+
+When downloading from sources other than the Asset Store you will receive a .unitypackage file can be dragged into your project files and imported manually. Packages can also be imported into the package manager via its github address so updates can be tracked.
