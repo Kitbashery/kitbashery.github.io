@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Health.cs
-parent: game-kit
-nav_order: 2
+parent: Game Kit
+nav_order: desc
 ---
 
 # Health
