@@ -3,7 +3,7 @@ layout: default
 title: Game Kit
 nav_order: 4
 has_children: true
-permalink: /docs/GameKit
+permalink: /docs/game-kit
 ---
 
 # GameKit
