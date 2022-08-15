@@ -3,7 +3,7 @@ remote_theme: kitbashery/just-the-docs
 title: kitbashery.com
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: kitbashery
 
 # External navigation links
 nav_external_links:
