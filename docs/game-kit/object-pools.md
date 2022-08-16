@@ -10,6 +10,7 @@ grand_parent: Game Kit
 ## Description:
 A singleton class for managing multiple pools of GameObjects.
 
+
 ## Usage Examples:
 
 From external script you can get a GameObject from the pool via a prefab name or a known index of ObjectPool.pools
@@ -52,7 +53,7 @@ public void Spawn()
 | CreatePools |  | | `Void` |
 | PopulatePools   |   |  | `Void` |
 | ExpandPools      |    | `Pool pool, int amount` | `Void` |
-| DestroyPools | Destroys all objects in all pools.  | `bool omitActive`: "Preserve pooled GameObjects that are currently active in the scene". | `Void` |
+| DestroyPools | Destroys all objects in all pools.  | `bool omitActive` "Preserve pooled GameObjects that are currently active in the scene". | `Void` |
 | ActivatePooledObject |  | `int index` | `Void` |
 | ActivatePooledObject |  | `string prefabName` | `Void` |
 | GetPooledObject | Gets a pooled GameObject by the index of its pool. | `int index` "The index of a pool in pools". | `GameObject` "The first inactive prefab instance". |
