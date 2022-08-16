@@ -13,11 +13,13 @@ A singleton class for managing multiple pools of GameObjects.
 ## Usage Examples:
 
 From external script you can get a GameObject from the pool via a prefab name or a known index of ObjectPool.pools
+
  ```csharp
 public void Spawn()
 {
      GameObject go = ObjectPools.Instance.GetPooledObject("MyPrefabName");
      go.transform.position = Vector3.Zero;
+     //Do other things to the GameObject...
      go.SetActive(true);
 }
  ```
@@ -28,6 +30,7 @@ public void Spawn()
      ObjectPools.Instance.ActivatePooledObject("MyPrefabName");
 }
  ```
+ 
  
  ## Usage Notes:
  
