@@ -8,5 +8,7 @@ permalink: /docs/game-kit
 
 # GameKit
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
+## Description:
+GameKit contains systems and components commonly used in games. Designed with 3D games in mind, however some components may function in 2D as well.
+
+### Namespace: Kitbashery.Gameplay
