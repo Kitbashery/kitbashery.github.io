@@ -9,12 +9,13 @@ grand_parent: Game Kit
 
 ## Description:
 Modifies the `Health`components of colliding `GameObject`s.
+
+## Usage Notes:
  
- ## Usage Notes:
- 
- -Required to have RegisterTarget() called via its onEnter UnityEvent to function.
- -Required to have UnregisterTarget() called via its onExit UnityEvent to function.
- -Required to have ModifyHealth() called via its onStay UnityEvent to function.
+ * Required to have RegisterTarget() called via its onEnter UnityEvent to function.
+ * Required to have UnregisterTarget() called via its onExit UnityEvent to function.
+ * Required to have ModifyHealth() called via its onStay UnityEvent to function.
+
  Call AddListeners() if HealthZone is added to a GameObject during runtime.
 
 ## Public Properties:
