@@ -8,7 +8,7 @@ grand_parent: Game Kit
 # HealthZone.cs
 
 ## Description:
-Modifies the <see cref="Health"/> components of colliding <see cref="GameObject"/>s.
+Modifies the `Health`components of colliding `GameObject`s.
  
  ## Usage Notes:
  
