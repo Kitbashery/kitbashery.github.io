@@ -22,7 +22,7 @@ Tip: Lowercase fields in the inspector can be set via UnityEvents.
 |  `bool` | invinsible |  | `false` |
 |  `Health` | bonusHealth | If assigned the hitpoints of the bonus health will need to be depleted before damage can be applied to this health component. |  |
 |  `int` | hitPoints | The hitpoints to start with, it isn't recommended to modify this value directly during runtime, use ModifyHealth() instead. | 100, Minimum value = 0 |
-|  `bool` | overhealExpand | Should the maximum hit points be expanded if healed beyond hitPoints? | false |
+|  `bool` | overhealExpand | Should the maximum hit points be expanded if healed beyond maxHitPoints? | false |
 |  `bool` | canRegen | Enables passive health regeneration. | false |
 |  `int` | regenPoints | Hitpoints to regenerate. | 1, Minimum value = 1 |
 |  `float` | regenRate | Time between regenerating hitpoints (in seconds). | 0.1, Minimum value = 0.01 |
