@@ -42,7 +42,7 @@ GameKit contains feature rich systems and components commonly used in games. Des
 * Integrated with health system
 * Integrated with projectiles
 
-#### Projectiles
+#### Projectiles:
 * Impact force
 * Integrated with health system
 * Integrated object pooling
