@@ -62,3 +62,9 @@ Tip: Lowercase fields in the inspector can be set via UnityEvents.
 |  `int` | amount | The amount of healing or damage to apply. | Minumum value = 1 |
 |  `int` | times | The amount of times to modify health. | Minumum value = 1 |
 |  `float` | interval | Time interval in seconds between modifying health. | Minumum value = 0 |
+
+## Enumerations:
+
+### HealthModifiers
+
+`{ damage, heal }`
