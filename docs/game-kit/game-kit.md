@@ -8,7 +8,7 @@ permalink: /docs/game-kit
 
 # GameKit
 
-[Download Latest](http://github.com/Kitbashery/Game-Kit/releases/latest/download/game-kit.zip){: .btn }
+[Download Latest](https://github.com/Kitbashery/Game-Kit/releases/download/2022.1/Kitbashery_GameKit_2022_1_0_0.unitypackage){: .btn }
 [Unity Asset Store](http://example.com/){: .btn }
 [Kitbashery Store](http://example.com/){: .btn }
 [Older Versions](https://github.com/Kitbashery/Game-Kit/releases){: .btn }
