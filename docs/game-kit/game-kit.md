@@ -46,6 +46,8 @@ Kitbashery.Gameplay
 
 #### Projectiles:
 * Impact force
+* Seeking
+* Ricochets
 * Integrated with health system
 * Integrated object pooling
 
