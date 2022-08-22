@@ -11,7 +11,9 @@ grand_parent: Game Kit
 Tracks "hit points" and invokes events based on the current amount or state.
 
 ## Usage Notes:
- 
+
+Bonus Health should not be set to its own `health` component.
+
 Tip: Lowercase fields in the inspector can be set via UnityEvents.
  
 
