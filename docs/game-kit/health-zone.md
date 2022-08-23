@@ -7,6 +7,9 @@ grand_parent: Game Kit
 
 # HealthZone.cs
 
+### Inherits from:
+[CollisionEvents.cs](https://kitbashery.com/docs/game-kit/collision-events.html)
+
 ## Description:
 Modifies the `Health`components of colliding `GameObject`s.
 
