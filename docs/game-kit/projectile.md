@@ -7,6 +7,9 @@ grand_parent: Game Kit
 
 # Projectile.cs
 
+### Inherits from:
+[CollisionEvents.cs](https://kitbashery.com/docs/game-kit/collision-events.html)
+
 ## Description:
 A physics based projectile.
 
