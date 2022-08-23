@@ -29,10 +29,22 @@ Page navigation YAML Front Matter...
 Link to class (if applicable)
   
 ## Description:
-You description
+Your description
+
+## Usage Examples:
+
+ ```csharp
+public void Spawn()
+{
+     GameObject go = ObjectPools.Instance.GetPooledObject("MyPrefabName");
+     go.transform.position = Vector3.Zero;
+     //Do other things to the GameObject...
+     go.SetActive(true);
+}
+ ```
 
 ## Usage Notes:
-any remarks on how to use the file.
+Any remarks on how to use the file.
 
 ## Public Properties:
 ```
