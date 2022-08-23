@@ -33,10 +33,10 @@ public void Spawn()
  ```
  
  
- ## Usage Notes:
+## Usage Notes:
  
- It is recommended to access the ObjectPool instance after Awake() is called, 
- otherwise modify the script execution order so your script is loaded after ObjectPool.cs
+It is recommended to access the ObjectPool instance after Awake() is called, 
+otherwise modify the script execution order so your script is loaded after ObjectPool.cs
  
 
 ## Public Properties:
