@@ -40,6 +40,8 @@ If adding the component via script be sure to call AddImpactListener().
 |  `Transform` | target |  |  |
 |  `TargetModes` | targetMode | Determines how a target should be selected if target is not initially defined. | TargetModes.targetFirst |
 |  `LayerMask` | layerMask | The layer(s) to search for a target in. |  |
+|  `QueryTriggerInteraction` | triggerInteraction | How should the projectile interact with trigger colliders? | QueryTriggerInteraction.Ignore |
+|  `RaycastHit[]` | hits | Raycast hits collected when the projectile searches for targets to seek. |  |
 |  `string` | targetTag | The tag required for a GameObject to be set as a target. (leave blank if you don't need this). |  |
 |  `float` | searchRange | The range to search for a target in. | 10 |
 |  `float` | seekSpeed | The speed at which the projectile will travel to the target. | 10 |
