@@ -5,6 +5,10 @@ title: kitbashery.com
 # Color scheme supports "light" (default) and "dark"
 color_scheme: kitbashery
 
+aux_links:
+  "Support Development":
+    - "https://ko-fi.com/kitbashery"
+
 # External navigation links
 nav_external_links:
   - title: Kitbashery on GitHub
