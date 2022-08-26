@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tween Components
-nav_order: 5
+nav_order: desc
 has_children: true
 permalink: /docs/tween-components
 ---
