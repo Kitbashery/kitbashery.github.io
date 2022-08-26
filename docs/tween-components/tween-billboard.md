@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TweenBillboard.cs
-parent: Classes.
+parent: Classes
 grand_parent: Tween Components
 ---
 
