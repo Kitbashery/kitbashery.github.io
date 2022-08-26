@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Game Kit
-nav_order: 4
+nav_order: desc
 has_children: true
 permalink: /docs/game-kit
 ---
