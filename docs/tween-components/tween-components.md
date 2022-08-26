@@ -3,7 +3,7 @@ layout: default
 title: Tween Components
 nav_order: desc
 has_children: true
-permalink: /docs/tween-components
+
 ---
 
 # Tween Components
