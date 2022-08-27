@@ -9,8 +9,8 @@ permalink: /docs/game-kit
 # GameKit
 
 [Download Latest](https://github.com/Kitbashery/Game-Kit/releases/download/Latest/Kitbashery_GameKit.unitypackage){: .btn }
-[Unity Asset Store](http://example.com/){: .btn }
-[Kitbashery Store](http://example.com/){: .btn }
+[Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }
+[Kitbashery Store](https://ko-fi.com/s/060c0fcf15){: .btn }
 [Older Versions](https://github.com/Kitbashery/Game-Kit/releases){: .btn }
 
 ## Description:
