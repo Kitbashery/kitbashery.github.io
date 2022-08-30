@@ -1,3 +1,9 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
+
 # Coming Soon!
 
 The asset download isn't available or the page is missing. This could be because:
