@@ -25,6 +25,7 @@ Kitbashery.AI
 * Zero string comparisons or calls to reflection.
 * Behaviours can be fully configured during runtime.
 * Not tied to a specific pathfinding solution.
+* Fully extendable via code modules.
 
 ### Built-in Modules:
 
