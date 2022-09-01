@@ -15,7 +15,7 @@ https://just-the-docs.github.io/just-the-docs/
 
 
 ## PDF Documentation:
-The website contains hidden pages that can be easily converted to .pdf files for offline documentation.
+The website contains hidden pages that can be converted to .pdf files for offline documentation using 3rd party tools.
 
 Example:
 https://kitbashery.com/docs/game-kit/game-kit-pdf.html
