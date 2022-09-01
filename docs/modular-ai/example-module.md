@@ -2,7 +2,7 @@
 layout: default
 title: ExampleModule.cs
 parent: Classes
-grand_parent: Game Kit
+grand_parent: Modular AI
 ---
 
 # ExampleModule.cs
