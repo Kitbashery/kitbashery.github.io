@@ -21,4 +21,4 @@ The website contains hidden pages that can be easily converted to .pdf files for
 Example:
 https://kitbashery.com/docs/game-kit/game-kit-pdf.html
 
-Reccommended to find a .html to .pdf converter. Some pages will be already converted; those .pdf files can be found under the releases tab.
+Some pages will be already converted; those .pdf files can be found under the releases tab.
