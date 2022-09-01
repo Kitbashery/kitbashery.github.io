@@ -30,7 +30,7 @@ Contains two constructors one for defining the event as a condition and a shorte
 
 ## Constructors:
 | Summary      | Parameters | Constructs |
-|:--------------|:-----------|:--------|
+|:-------------|:-----------|:-----------|
 | Constructs an event as a condition. | `string` eventName, `int` eventID, `AIModule` module, `int` conditionScore, `bool` conditionState | `BehaviourEvent` |
 | Constructs an event as an action. | `string` eventName, `int` eventID, `AIModule` module | `BehaviourEvent` |
 
