@@ -18,7 +18,9 @@ This class is an example template for creating modules.
 
 * Overrides for `conditions` and `actions` of AIModule.cs are required, however can be encapsulated in `#if UNITY_EDITOR` if you do not want to use them to build UI dropdowns for runtime behaviour editing.
 
-* Make sure you don't have any AIAgents selected in the inspector when you make changes to the `conditions` or `actions` arrays this may break the dropdown for that inspected agent. See [Issue #6](https://github.com/Kitbashery/Modular-AI/issues/6) in modular AI's GitHub repo for more information.
+* Make sure you don't have any AIAgents selected in the inspector when you make changes to the `conditions` or `actions` arrays this may break the dropdown for that inspected agent. See [Issue #6](https://github.com/Kitbashery/Modular-AI/issues/6) in modular AI's GitHub repo for more information. A workaround for this is to reset the module component.
+
+* Do not rearrange the strings entered into an action/condition override array once they are in use in your project this will cause visual bugs in the editor.
 
 ```csharp
 
@@ -45,9 +47,8 @@ namespace Kitbashery.AI
         #region Modular AI Condition Overrides:
 
         /// <summary>
-        /// Condition names used by the editor to set identifiers based on the index of the selected string in this array.
-        /// Note: You can encapsulate this with #if UNITY_EDITOR if you don't plan to pass this to UI dropdowns during runtime.
-        /// Note: Rearranging the array will break editor visuals for any behaviour logic that already uses these conditions.
+        /// Condition names used by the editor to set identifiers based on the index of 
+        /// the selected string in this array.
         /// </summary>
         private string[] _conditions;
         public override string[] conditions
@@ -63,7 +64,7 @@ namespace Kitbashery.AI
         }
 
         /// <summary>
-        /// Checks a condition based on an index that should match an action's name in this module's <see cref="actions"/> array.
+        /// Checks a condition based on an index that should match an action's name in this module's actions array.
         /// </summary>
         /// <param name="conditionIndex"></param>
         public override bool checkCondition(int conditionIndex)
@@ -89,7 +90,8 @@ namespace Kitbashery.AI
 
                 case 2:
 
-                    // This is an example of how to return a boolean value from a method (useful for managing more complex code such as loops).
+                    // This is an example of how to return a boolean value from a method 
+                    // (useful for managing more complex code such as loops).
                     return ConditionExample3();
 
             }
@@ -102,9 +104,8 @@ namespace Kitbashery.AI
         #region Modular AI Action Overrides:
 
         /// <summary>
-        /// Action names used by the editor to set identifiers based on the index of the selected string in this array.
-        /// Note: You can encapsulate this with #if UNITY_EDITOR if you don't plan to pass this to UI dropdowns during runtime.
-        /// Note: Rearranging the array will break editor visuals for any behaviour logic that already uses these actions.
+        /// Action names used by the editor to set identifiers based on the index of 
+        /// the selected string in this array.
         /// </summary>
         private string[] _actions;
         public override string[] actions
@@ -120,7 +121,7 @@ namespace Kitbashery.AI
         }
 
         /// <summary>
-        /// Executes an action based on an index that should match an action's name in this module's <see cref="actions"/> array.
+        /// Executes an action based on an index that should match an action's name in this module's actions array.
         /// </summary>
         /// <param name="actionIndex"></param>
         public override void executeAction(int actionIndex)
