@@ -5,8 +5,7 @@ nav_order: 1
 description: "Kitbashery description placeholder."
 permalink: /
 ---
-
-# Kitbashery
+![](../../assets/images/kitbashery-github-banner.jpg)
 
 Kitbashery creates and maintains a collection of professionally developed and maintained game assets for Unity as a freemium service.
 
