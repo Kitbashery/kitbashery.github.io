@@ -41,14 +41,6 @@ Kitbashery.AI
 * Attack, Death Animations
 * Dynamic Hit reactions
 
----
-layout: default
-title: Getting Started
-parent: Modular AI
-nav_order: 1
-has_children: false
----
-
 # Getting Started:
 To get started using Modular AI first create a GameObject with an AIManager component.
 
