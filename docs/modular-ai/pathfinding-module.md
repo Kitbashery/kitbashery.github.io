@@ -46,10 +46,3 @@ An AI agent's behaviour loop is updated by an instance of `AIManager` if a manag
 | StopPatrol |  |  | `Void` |
 | Patrol |  |  | `Void` |
 | Wander |  |  | `void` |
-
-
-## Enumerations:
-
-### PatrolTypes
-
-`{ loop, pingPong, randomize }`
