@@ -20,8 +20,6 @@ The website contains hidden pages that can be converted to .pdf files for offlin
 Example:
 https://kitbashery.com/docs/game-kit/game-kit-pdf.html
 
-Some pages will be already converted; those .pdf files can be found under the releases tab.
-
 
 # 
 The name Kitbashery & all associated images Copyright &copy; 2022 Kitbashery. All Rights Reserved.
