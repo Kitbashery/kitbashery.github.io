@@ -29,6 +29,12 @@ An AI agent's behaviour loop is updated by an instance of `AIManager` if a manag
 | RefreshPatrolRoute | Refreshes the patrol route based on the current waypoint and transform position. |  | `Void` |
 | RandomizeWaypoints | `float` radius, `float` maxDistance, `LayerMask` mask, `QueryTriggerInteraction` triggerInteraction |  | `Void` |
 
+## Enumerations:
+
+### PatrolTypes
+
+`{ loop, pingPong, randomize }`
+
 ## Gizmo Preview:
 
 ![](../../assets/images/kitbashery-patrol-route-gizmo.jpg)
