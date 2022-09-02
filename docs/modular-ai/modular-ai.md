@@ -7,10 +7,8 @@ permalink: /docs/modular-ai
 ---
 
 # Modular AI
-* Modular AI is currently in beta and is not concidered production ready. See: [GitHub Issue #1](https://github.com/Kitbashery/Modular-AI/issues/1)
-
 [Download Latest](https://github.com/Kitbashery/Modular-AI/releases/download/Latest/Kitbashery_ModularAI.unitypackage){: .btn }
-[Unity Asset Store](https://kitbashery.com/coming-soon){: .btn }
+[Unity Asset Store](https://assetstore.unity.com/packages/slug/231965){: .btn }
 [Kitbashery Store](https://kitbashery.com/coming-soon){: .btn }
 [Older Versions](https://github.com/Kitbashery/Modular-AI/releases){: .btn }
 
@@ -21,7 +19,7 @@ Modular AI is an inspector based visual behaviour designer.
 Kitbashery.AI
 
 ## Features:
-* Implements competeing utility theory behaviours for dynamic AI behaviours.
+* Implements competing utility theory behaviours for dynamic AI behaviours.
 * Zero string comparisons or calls to reflection.
 * Behaviours can be fully configured during runtime.
 * Not tied to a specific pathfinding solution.
@@ -35,12 +33,12 @@ Kitbashery.AI
 * Patrol
 
 #### Memory:
-* Remember players, AI agents or environment objects.
+* Remember players, AI agents, or environment objects.
 * Focus/target objects in memory
 * Invoke custom events.
 
 #### Sensors:
-* Eye level scans
+* Eye-level scans
 * Physics Scan Options for 2D & 3D
 * Integrated with memory
 
