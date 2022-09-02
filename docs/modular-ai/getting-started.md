@@ -30,4 +30,5 @@ Conditions are true/false statements based on what the AI knows about the game w
 Actions are executed in the order they are arranged if a behaviour's total score meets the score type better than any other behaviour.
 
 
+## Module Scripting:
 Take a look at [ExampleModule.cs](https://kitbashery.com/docs/modular-ai/example-module.html) for how to create your own modules.
