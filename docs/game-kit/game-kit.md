@@ -8,7 +8,7 @@ permalink: /docs/game-kit
 
 # GameKit
 
-[Download Latest](https://github.com/Kitbashery/Game-Kit/releases/download/Latest/Kitbashery_GameKit.unitypackage){: .btn }
+[Download Latest](https://github.com/Kitbashery/kitbashery.github.io/raw/main/assets/packages/Kitbashery_GameKit.unitypackage){: .btn }
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }
 [Kitbashery Store](https://ko-fi.com/s/060c0fcf15){: .btn }
 [Older Versions](https://github.com/Kitbashery/Game-Kit/releases){: .btn }
@@ -56,3 +56,14 @@ Kitbashery.Gameplay
 * Dynamic activation events
 * Integrated with health system
 * Integrated with projectiles
+
+#### Time Management:
+* Play/Pause
+* FPS Counter
+* Slow Motion
+* Time Events
+
+#### Force Fields:
+* Directional forces
+* Sync with WindZone
+* Explosion/Implosion 
