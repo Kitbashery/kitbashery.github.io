@@ -9,10 +9,8 @@ permalink: /
 
 <b>Kitbashery professionally develops & maintains a collection of Unity assets as a freemium service.</b>
 
-## About:
-<details>
-<summary>Why Freemium?</summary>
-<pre>
+## Why Freemium?
+
 <p>
 <b>After years of working in Unity with thousands of dollars invested
 in the Unity Asset Store both as a publisher and consumer I found that:</b>
@@ -23,12 +21,8 @@ in the Unity Asset Store both as a publisher and consumer I found that:</b>
 <li>Paid upgrades split the user base and don't have a "try before you buy" option.</li>
 <li>Updates to assets could take weeks to months for the asset store's review process to complete.</li>
 </ul>
-</pre>
-</details>
 
-<details>
-<summary>Kitbashery makes sure that:</summary>
-<pre>
+### Kitbashery makes sure that:
 
 <ul>
 <li>Assets are free of an initial charge. No more paying for expensive broken assets you can't refund.</li>
@@ -38,24 +32,8 @@ in the Unity Asset Store both as a publisher and consumer I found that:</b>
 <li>Feature requests/new assets are developed on a per commission basis (or added by the community).</li>
 <li>The latest version is always available to download.</li>
 </ul>
-</pre>
-</details>
-
-<details>
-<summary>Support Development</summary>
-<pre>
-
-Kitbashery offers membership plans for priority support, feature requests and commissions on Ko-Fi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S8EKDY5)
-
-</pre>
-</details>
 
 ## Installation Options:
-<details open>
-<summary>Options:</summary>
-<pre>
 <ol>
 <li>The Unity Asset Store will have packages for the current Unity LTS version.</li>
 <li>The most recent version can be downloaded from the asset's product page on <a href="https://kitbashery.com/">kitbashery.com</a>.</li>
@@ -64,8 +42,6 @@ Kitbashery offers membership plans for priority support, feature requests and co
 <li>Copy the asset's GitHub repository's Clone HTTPS URL and paste it into the package manager.</li>
 <li>Install via openUPM (click the badge on the asset's GitHub repo).</li>
 </ol>
-</pre>
-</details>
 
 ## Contributing:
 All code contributions are subject to the following requirements:
