@@ -12,9 +12,7 @@ Manages play/pause, framerate events and time scale effects.
 
 ## Usage Notes:
 
-Bonus Health should not be set to its own `health` component.
-
-Tip: Lowercase fields in the inspector can be set via UnityEvents.
+Calling SlowMoHalfSpeed will override any time effects started by calling ScaleTime.
  
 
 ## Public Properties:
