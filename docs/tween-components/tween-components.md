@@ -8,7 +8,7 @@ permalink: /docs/tween-components
 
 # Tween Components
 
-[Download Latest](https://github.com/Kitbashery/Tween-Components/releases/download/Latest/Kitbashery_TweenComponents.unitypackage){: .btn }
+[Download Latest](https://github.com/Kitbashery/kitbashery.github.io/raw/main/assets/packages/Kitbashery_TweenComponents.unitypackage){: .btn }
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/231241){: .btn }
 [Kitbashery Store](https://ko-fi.com/s/48d0a58ab2){: .btn }
 [Older Versions](https://github.com/Kitbashery/Tween-Components/releases){: .btn }
