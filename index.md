@@ -22,7 +22,7 @@ in the Unity Asset Store both as a publisher and consumer I found that:</b>
 <li>Updates to assets could take weeks to months for the asset store's review process to complete.</li>
 </ul>
 
-### Kitbashery makes sure that:
+### Benefits of freemium:
 
 <ul>
 <li>Assets are free of an initial charge. No more paying for expensive broken assets you can't refund.</li>
