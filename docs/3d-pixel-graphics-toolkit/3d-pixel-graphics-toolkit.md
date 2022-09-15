@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3D Pixel Graphics Toolkit
-nav_order: 3
+nav_order: 6
 has_children: false
 permalink: /docs/3d-pixel-graphics-toolkit
 ---
