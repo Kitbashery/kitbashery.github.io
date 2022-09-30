@@ -20,7 +20,7 @@ Rotates to a destination rotation following a `AnimationCurve`.
 |  `Vector3` | target |  |  |
 |  `bool` | spin | Spin around target axis. | false |
 |  `float` | spinSpeed |  | 1f, Range = 1-360 |
-|  `Quaternion` | nextRot | The next rotation the transform will be at (usefull for networking/physics). |  |
+|  `Quaternion` | nextRot | The next rotation the transform will be at (useful for networking/physics). |  |
 
 ## Public Methods:
 
