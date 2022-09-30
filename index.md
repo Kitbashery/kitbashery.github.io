@@ -50,12 +50,12 @@ All code contributions are subject to the following requirements:
 All C# code must be up to Microsoft's <a href="https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">C# Coding Conventions</a>. In the past Unity used conventions like using m_variableName and such practices can still be found in legacy code. However going forward Microsoft's conventions are now the standard.
 </p>
 
-In addition to the C# coding standards there is a prefered comment and region structure to follow.
+In addition to the C# coding standards there is a preferred comment and region structure to follow.
 
 <li>Encapsulate all properties in a #region labeled: Properties:</li>
 <li>Encapsulate all Monobehaviour Initializers, Updates, Gizmos and IEnumerators in a #region labeled: Initialization & Updates.</li>
 <li>Encapsulate Methods in a #region labeled: Methods: within this region you can have sub regions labeled to your liking.</li>
-<li>Triple slash summary comments must be used on all public methods and properties that are not obviously named. These summary comments corralate to the descriptions in the documentation.</li>
+<li>Triple slash summary comments must be used on all public methods and properties that are not obviously named. These summary comments correlate to the descriptions in the documentation.</li>
 
 
 ```csharp
@@ -76,7 +76,7 @@ Additionally over any public property field that will be displayed in Unity's in
 [ToolTip("Your tooltip text")]
 ```
 
-Sometimes with very obviouslty named fields that are self explanitory it isn't necessary to add a tooltip attribute, but in most cases it is prefered.
+Sometimes with very obviously named fields that are self explanatory it isn't necessary to add a tooltip attribute, but in most cases it is preferred.
 
 In some cases it is prefered to be more strict than Microsoft's conventions such as var is rarely if ever used, instead a known type should be used. Additionally when checking if statements == true/false is always used instead of if(variableName) These two practices are done to reduce ambiguity.
 
