@@ -22,7 +22,7 @@ An AI agent's behaviour loop is updated by an instance of `AIManager` if a manag
 |  `bool` | modulesChanged | Has the amount of modules changed? | false |
 |  `List<AIBehaviour>` | behaviours |  |  |
 |  `UnityEvent` | preActionExecution | Events to be invoked before any behaviour actions are executed when `ExecuteWinningBehaviourActions()` is called. |  |
-|  `UnityEvent` | postActionExecution | Events to be invoked after any behaviour actions are executed when `ExecuteWinningBehaviourActions()` is called. is called. |  |
+|  `UnityEvent` | postActionExecution | Events to be invoked after any behaviour actions are executed when `ExecuteWinningBehaviourActions()` is called. |  |
 |  `bool` | debugMode | Toggles debug information in the console while in playmode. | false |
 |  `DebugLevels` | debugLevel | How much information to log to the console while in debug mode. | DebugLevels.BehavioursOnly |
 |  `ScoreTypes` | scoreType | The condition a behaviour's score needs to meet for its actions to execute. | ScoreTypes.HighestScoreWins |
