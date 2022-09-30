@@ -11,7 +11,7 @@ grand_parent: Game Kit
 [CollisionEvents.cs](https://kitbashery.com/docs/game-kit/collision-events.html)
 
 ## Description:
-Applys force to `Rigidbody`s within it's bounds.
+Applys force to `Rigidbody`s within its bounds.
 
 ## Usage Notes:
  
