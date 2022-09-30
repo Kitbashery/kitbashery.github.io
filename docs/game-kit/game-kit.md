@@ -37,7 +37,7 @@ Kitbashery.Gameplay
 #### Health:
 * Invinsibility
 * Multiple healthbars
-* Passive regenration
+* Passive regeneration
 * Damage/healing
 * Stackable effects over time
 * Damage/heal/death Events
