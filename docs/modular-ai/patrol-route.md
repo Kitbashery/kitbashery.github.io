@@ -19,7 +19,7 @@ An AI agent's behaviour loop is updated by an instance of `AIManager` if a manag
 | Type        | Name | Description         | Default Value |
 |:-------------|:----|:------------------|:------|
 |  `Vector3[]` | waypoints | Waypoints that define a patrol route in the order they should be navigated to. Note: waypoints are fixed positions in world space. |  |
-|  `Vector3[]` | route | The patrol route relative to it's transform (waypoints in local space). Note: route move with the transform. |  |
+|  `Vector3[]` | route | The patrol route relative to its transform (waypoints in local space). Note: route move with the transform. |  |
 |  `RaycastHit[]` | hits | Hits chached when randomizing waypoints. |  |
 
 ## Public Methods:
