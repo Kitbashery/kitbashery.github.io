@@ -12,7 +12,7 @@ A base class for all AI modules.
 
 ## Usage Notes:
 
-Components that inherit from this base class are automatically hidden in the editor. to prevent this comment out the `OnValidate() method:
+Components that inherit from this base class are automatically hidden in the editor. You cab prevent this by commenting out the `OnValidate() method:
 ```csharp
         private void OnValidate()
         {
