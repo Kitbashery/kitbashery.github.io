@@ -47,7 +47,7 @@ Tip: Lowercase fields in the inspector can be set via UnityEvents.
 | ResetHealth | Resets the hitpoints of all health and (optionally) all bonus health components in the chain to their original values. Useful for pooling. | `bool` resetBonusHealth "If true will reset the bonus health recursively until no bonus health is found." Default value = `false` | `Void` |
 | SetMaxHitpoints | Overrides the initial hitpoint value and adjusts the current hitpoints to fit within the new range. | `int` amount "The new max value of hitpoints". | `void` |
 | IsLessThanHalfHealth | Checks if the amount of hitpoints is below 50% of the intial value. | | `bool` "true if hitpoints are below 50%". |
-| TimedEffectsPlaying | Checks if there are any heal/damage over time effects being apllied. |  | `bool` "true if there are effect playing". |
+| TimedEffectsPlaying | Checks if there are any heal/damage over time effects being applied. |  | `bool` "true if there are effect playing". |
 | HasTimedHealthEffect | Checks if there is a specific timed health effect playing. | `string` effectName "The name of the effect to check for". | `bool` "true if an effect is found". |
 | DebugTimedEffectCount |  |  | `void` |
 | DebugCurrentHealth |  |  | `void` |
