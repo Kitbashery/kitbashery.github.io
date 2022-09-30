@@ -18,7 +18,7 @@ Rotates to a destination rotation following a `AnimationCurve`.
 | Type        | Name | Description         | Default Value |
 |:-------------|:----|:------------------|:------|
 |  `Vector3` | target |  | `Vector3.forward` |
-|  `Vector3` | nextPos | The next position the transform will be at (usefull for networking/physics). |  |
+|  `Vector3` | nextPos | The next position the transform will be at (useful for networking/physics). |  |
 
 ## Public Methods:
 
