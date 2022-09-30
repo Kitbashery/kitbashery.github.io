@@ -23,7 +23,7 @@ Kitbashery.Gameplay
 
 #### Object pooling:
 * Improves game performace
-* Sequencial naming
+* Sequential naming
 * Hide pooled GameObjects in the inspector
 * Expandable pools.
 
