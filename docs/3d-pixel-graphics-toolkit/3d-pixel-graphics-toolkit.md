@@ -45,7 +45,7 @@ Other things you may wish to do for a pixel-style project is to add an Import pr
 * Compression set to "none".
 This will save a lot of time messing with the import settings.
 
-It is also good to note that for 16x16 textures that one pixel in world units scale is `0.0625` and that magic number helps when snapping scale values acheive a uniform look.
+It is also good to note that for 16x16 textures that one pixel in world units scale is `0.0625` and that magic number helps when snapping scale values achieve a uniform look.
 
 It should also be noted that although primitive meshes such as the ramp, dome and sphere have UVs optimized for pixel perfect rendering there is geometric limitations that will still result in stretching. It is best to keep those meshes scaled uniformly, however checking `sloped surface` in the triplanar shader's material properties may help with some cases.
 
