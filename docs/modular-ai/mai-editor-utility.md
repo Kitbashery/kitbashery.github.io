@@ -34,7 +34,7 @@ Utility class for drawing commonly used editor GUI elements for modular AI's cus
 
 | Name | Summary      | Parameters | Returns |
 |:----|:------------------|:-----------|:--------|
-| DrawHelpTitleToggle | Draws a bold title with a help button that toggles a help box. Useage example: `myBool = DrawHelpTitleToggle(myBool, "title", "message");` | `bool` toggle "Boolean to pass in and return.", `string` title "Text for the bold title.", `string` text "Text for the help box to display." | `static bool` "Returns toggle" |
+| DrawHelpTitleToggle | Draws a bold title with a help button that toggles a help box. Usage example: `myBool = DrawHelpTitleToggle(myBool, "title", "message");` | `bool` toggle "Boolean to pass in and return.", `string` title "Text for the bold title.", `string` text "Text for the help box to display." | `static bool` "Returns toggle" |
 | DrawFoldout |  | `bool` value, `string` label | `static bool` |
 | DrawCompactPopup |   | `string` label, `int` value, `string[]` options | `static int` |
 | DrawComponentOptions |   | `Component` component | `static Void` |
