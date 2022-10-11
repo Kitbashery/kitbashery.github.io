@@ -28,6 +28,8 @@ An AI agent's behaviour loop is updated by an instance of `AIManager` if a manag
 |  `ScoreTypes` | scoreType | The condition a behaviour's score needs to meet for its actions to execute. | ScoreTypes.HighestScoreWins |
 |  `int` | scoreThreshold | The score a behaviour will need to beat in order for its actions to be executed. | 0 |
 |  `bool` | hasBrokenReferences | Has a module that this agent depends on been removed? | false |
+|  `List<AIBehaviour>` | winningBehaviours | The behaviours that will have their actions executed the next time ExecuteBehaviourActions is called. | |
+|  `bool` | UseCompetingBehaviours | Should behaviours compete for a single score criteria? | false |
 
 ## Public Methods:
 
