@@ -7,9 +7,9 @@ permalink: /docs/modular-ai
 ---
 
 # Modular AI
-[Download Latest](https://github.com/Kitbashery/kitbashery.github.io/raw/main/assets/packages/Kitbashery_ModularAI.unitypackage){: .btn }
+[Download Dev Kit](https://github.com/Kitbashery/Modular-AI/releases/download/Development-Package/Kitbashery_ModularAI.unitypackage){: .btn }
+[OpenUPM Download](https://openupm.com/packages/com.kitbashery.modular-ai/){: .btn }
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/231965){: .btn }
-[Kitbashery Store](https://kitbashery.com/coming-soon){: .btn }
 [Older Versions](https://github.com/Kitbashery/Modular-AI/releases){: .btn }
 
 ## Description:
