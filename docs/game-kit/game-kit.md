@@ -8,9 +8,9 @@ permalink: /docs/game-kit
 
 # GameKit
 
-[Download Latest](https://github.com/Kitbashery/kitbashery.github.io/raw/main/assets/packages/Kitbashery_GameKit.unitypackage){: .btn }
+[Download Dev Kit](https://github.com/Kitbashery/Game-Kit/releases/download/Development-Package/Kitbashery_GameKit.unitypackage){: .btn }
+[OpenUPM Download](https://openupm.com/packages/com.kitbashery.game-kit/){: .btn }
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }
-[Kitbashery Store](https://ko-fi.com/s/060c0fcf15){: .btn }
 [Older Versions](https://github.com/Kitbashery/Game-Kit/releases){: .btn }
 
 ## Description:
