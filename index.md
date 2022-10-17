@@ -38,7 +38,6 @@ in the Unity Asset Store both as a publisher and consumer I found that:</b>
 <li>The Unity Asset Store will have packages for the current Unity LTS version.</li>
 <li>The most recent version can be downloaded from the asset's product page on <a href="https://kitbashery.com/">kitbashery.com</a>.</li>
 <li>Legacy versions can be found in the asset's GitHub repository's Releases tab.</li>
-<li>Assets can be downloaded from Kitbashery's Ko-Fi store for free or you can "pay what you want".</li>
 <li>Copy the asset's GitHub repository's Clone HTTPS URL and paste it into the package manager.</li>
 <li>Install via openUPM (click the badge on the asset's GitHub repo).</li>
 </ol>
