@@ -7,7 +7,7 @@ color_scheme: kitbashery
 
 aux_links:
   "Support Development":
-    - "https://ko-fi.com/kitbashery"
+    - "https://github.com/sponsors/Kitbashery"
 
 # External navigation links
 nav_external_links:
@@ -21,5 +21,5 @@ nav_external_links:
     url: https://assetstore.unity.com/publishers/72943
     hide_icon: false
   - title: Commission a Feature
-    url: https://ko-fi.com/kitbashery/commissions
+    url: https://github.com/sponsors/Kitbashery
     hide_icon: false
