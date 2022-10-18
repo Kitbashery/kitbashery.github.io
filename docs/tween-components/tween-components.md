@@ -10,8 +10,8 @@ permalink: /docs/tween-components
 
 [Download Dev Kit](https://github.com/Kitbashery/Tween-Components/releases/download/Development-Package/Kitbashery_TweenComponents.unitypackage){: .btn }
 [OpenUPM Download](https://openupm.com/packages/com.kitbashery.tween-components/){: .btn }
-[Unity Asset Store](https://assetstore.unity.com/packages/slug/231241){: .btn }
 [Older Versions](https://github.com/Kitbashery/Tween-Components/releases){: .btn }
+<!--[Unity Asset Store](https://assetstore.unity.com/packages/slug/231241){: .btn }-->
 
 ## Description:
 A component based interpolation system for Unity.
