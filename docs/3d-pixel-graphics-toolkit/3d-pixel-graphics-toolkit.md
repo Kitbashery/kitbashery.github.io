@@ -10,8 +10,8 @@ permalink: /docs/3d-pixel-graphics-toolkit
 
 [Download Dev Kit](https://github.com/Kitbashery/3D-Pixel-Graphics-Toolkit/releases/download/Development-Package/Kitbashery_3D_Pixel_Graphics_Toolkit.unitypackage){: .btn }
 [OpenUPM Download](https://openupm.com/packages/com.kitbashery.3d-pixel-graphics-toolkit/){: .btn }
-[Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }
 [Older Versions](https://github.com/Kitbashery/3D-Pixel-Graphics-Toolkit/releases){: .btn }
+<!--[Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }-->
 
 ## Description:
 
