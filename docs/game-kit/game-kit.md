@@ -10,8 +10,8 @@ permalink: /docs/game-kit
 
 [Download Dev Kit](https://github.com/Kitbashery/Game-Kit/releases/download/Development-Package/Kitbashery_GameKit.unitypackage){: .btn }
 [OpenUPM Download](https://openupm.com/packages/com.kitbashery.game-kit/){: .btn }
-[Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }
 [Older Versions](https://github.com/Kitbashery/Game-Kit/releases){: .btn }
+<!--[Unity Asset Store](https://assetstore.unity.com/packages/slug/231082){: .btn }-->
 
 ## Description:
 GameKit contains feature rich systems and components commonly used in games. Designed with 3D games in mind, however some components may function in 2D as well.
