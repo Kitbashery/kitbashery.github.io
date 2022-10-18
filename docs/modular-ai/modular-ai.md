@@ -9,8 +9,8 @@ permalink: /docs/modular-ai
 # Modular AI
 [Download Dev Kit](https://github.com/Kitbashery/Modular-AI/releases/download/Development-Package/Kitbashery_ModularAI.unitypackage){: .btn }
 [OpenUPM Download](https://openupm.com/packages/com.kitbashery.modular-ai/){: .btn }
-[Unity Asset Store](https://assetstore.unity.com/packages/slug/231965){: .btn }
 [Older Versions](https://github.com/Kitbashery/Modular-AI/releases){: .btn }
+<!--[Unity Asset Store](https://assetstore.unity.com/packages/slug/231965){: .btn }-->
 
 ## Description:
 Modular AI is an inspector based visual behaviour designer.
