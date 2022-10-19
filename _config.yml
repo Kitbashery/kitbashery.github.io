@@ -20,3 +20,6 @@ nav_external_links:
   - title: Commission a Feature
     url: https://github.com/sponsors/Kitbashery
     hide_icon: false
+
+- name: md-spellcheck-action
+  uses: matheus23/md-spellcheck-action@v4.2.2
