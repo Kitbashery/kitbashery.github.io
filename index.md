@@ -21,12 +21,9 @@ To commission an asset send an email to kitbashery@gmail.com with your prompt th
 <li>Copy the asset's GitHub repository's Clone HTTPS URL and paste it into the package manager.</li>
 </ol>
 
-<p>
-<b> Note: </b> demo scenes need to be installed seperately after importing a package into your project.
-To install a sample navigate to: 
-<br>
-<b>Package Manager > In Project > Asset Name > Samples > Install.</b>
-</p>
+<b>Installing demo scenes:</b>
+
+![](https://kitbashery.com/assets/images/kitbashery-demo-scene-installation.jpg)
 
 ## Contributing:
 The latest contribution guidelines can be found here:
