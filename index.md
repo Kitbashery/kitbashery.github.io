@@ -7,11 +7,7 @@ permalink: /
 ---
 ![](https://kitbashery.com/assets/images/kitbashery-github-banner.jpg)
 
-<p>
 <b>Kitbashery professionally develops & maintains a collection of Unity assets as a freemium service.</b>
-
-To commission an asset send an email to kitbashery@gmail.com with your prompt then place an order via <a href ="https://github.com/sponsors/Kitbashery">GitHub Sponsors</a> the asset will be open-sourced once completed.
-</p>
 
 ## Installation Options:
 <ol>
