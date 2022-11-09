@@ -17,7 +17,7 @@ permalink: /docs/3d-pixel-graphics-toolkit
 
 HDRP shader graphs for creating pixel-style graphics in Unity 3D.
 
-<iframe width="420" height="315"
+<iframe width="740" height="550"
 src="https://www.youtube.com/embed/wWMcH4FSE44">
 </iframe>
 
