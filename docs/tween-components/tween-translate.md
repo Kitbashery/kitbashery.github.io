@@ -11,7 +11,7 @@ grand_parent: Tween Components
 [TweenBase.cs](https://kitbashery.com/docs/tween-components/tween-base.html)
 
 ## Description:
-Rotates to a destination rotation following a `AnimationCurve`.
+Translates to a destination point following a 'AnimationCurve'.
 
 ## Public Properties:
 
