@@ -8,6 +8,7 @@ permalink: /docs/smart-gameobjects
 
 # Smart GameObjects
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/248930){: .btn }
+[Issue Tracker](https://github.com/Kitbashery/smart-gameobjects-issue-tracker/issues){: .btn }
 
 # Coming soon!
 
