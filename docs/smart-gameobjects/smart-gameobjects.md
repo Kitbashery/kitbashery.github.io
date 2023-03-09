@@ -9,6 +9,7 @@ permalink: /docs/smart-gameobjects
 # Smart GameObjects
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/248930){: .btn }
 [Issue Tracker](https://github.com/Kitbashery/smart-gameobjects-issue-tracker/issues){: .btn }
+[Demo](https://play.unity.com/mg/other/webgl-builds-321457){: .btn }
 
 <iframe width="740" height="550" src="https://www.youtube.com/embed/EbSKHIubecI"> </iframe>
 
