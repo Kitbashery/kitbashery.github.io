@@ -14,4 +14,4 @@ https://just-the-docs.github.io/just-the-docs/
 [Github Markdown Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [Theme Markdown Examples](https://github.com/Kitbashery/just-the-docs/blob/main/docs/index-test.md)
 
 # 
-The name Kitbashery & all associated images Copyright &copy; 2022 Kitbashery. All Rights Reserved.
+The name Kitbashery & all associated images Copyright &copy; 2023 Kitbashery. All Rights Reserved.
