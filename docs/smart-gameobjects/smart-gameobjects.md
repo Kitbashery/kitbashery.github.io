@@ -19,10 +19,51 @@ Smart GameObjects is a real-time visual scripting tool with built-in procedural 
 ### Namespace:
 Kitbashery.SmartGO
 
+## Getting Started:
+Right-click the hierarchy and navigate to Kitbashery > Smart GameObject
+If a Smart Manager is not in the scene one will be automatically created.
+
+Alternatively on an existing GameObject you can navigate to Add Component > Kitbashery > Gameplay > Smart GameObject and add it as a component.
+Make sure there is a Smart Manager present in any scene with a SmartGameObject in it.
+
+Instructions can be found by clicking on the (?) help button under the component's header and nearly every field will have a tooltip if you hover over it.
+
 ## Features:
-* Real-time visual script in editor play mode
-* Hundreds of built-in conditions & actions
-* Built-in procedural animation
-* Built-in object detection
-* Enitity system, FPS throttling & Object Pooling
-* Bonus! prarametric mesh editor
+
+📳 Visual Scripting:
+
+Real-time scripting while in editor play mode.
+Exportable, reusable behaviors.
+Hundreds of reflection-free conditions & actions.
+Built-in error prevention, documentation & debug tools.
+Supports AudioSource, NavMeshAgent, & Animator components.
+Supports UnityEvents for easy integration with other assets.
+Custom boolean & float variables.
+
+🍏 Physics Toolkit:
+
+Custom ray cast shapes.
+Memory, targets & filters.
+Object detection algorithms.
+Rigidbody actions.
+
+🌀 Procedural Animation:
+
+Translation, Rotation, Scaling.
+Billboards & custom tween modes.
+Spline paths with multiple spline types.
+Local space & smooth paths.
+
+⚡ Managed Entities:
+
+Custom FPS throttling.
+Built-in Object Pooling & spawning.
+Managed update cycles.
+Scale to thousands without DOTS using a component workflow***
+
+🔥 Bonus Parametric Meshes:
+
+Multiple shape generators.
+Custom procedural mesh creation & debug tools.
+Vertex deformation options.
+Multiple UV unwrapping algorithms.
