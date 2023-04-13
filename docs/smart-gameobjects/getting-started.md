@@ -12,4 +12,4 @@ Right-click the hierarchy and navigate to Kitbashery > Smart GameObject If a Sma
 Alternatively on an existing GameObject you can navigate to Add Component > Kitbashery > Gameplay > Smart GameObject and add it as a component. Make sure there is a Smart Manager present in any scene with a SmartGameObject in it.
 
 Instructions can be found by clicking on the (?) help button under the component's header and nearly every field will have a tooltip if you hover over it.
-![](../../assets/images/kitbashery-modular-ai-component-navigation.jpg)
+![](../../assets/images/kitbashery-smart-gameobjects-component-navigation.jpg)
