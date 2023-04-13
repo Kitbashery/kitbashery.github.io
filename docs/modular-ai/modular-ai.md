@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modular AI
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /docs/modular-ai
 ---
