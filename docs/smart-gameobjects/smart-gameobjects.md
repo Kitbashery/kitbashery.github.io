@@ -32,38 +32,38 @@ Instructions can be found by clicking on the (?) help button under the component
 
 📳 Visual Scripting:
 
-Real-time scripting while in editor play mode.
-Exportable, reusable behaviors.
-Hundreds of reflection-free conditions & actions.
-Built-in error prevention, documentation & debug tools.
-Supports AudioSource, NavMeshAgent, & Animator components.
-Supports UnityEvents for easy integration with other assets.
-Custom boolean & float variables.
+- Real-time scripting while in editor play mode.
+- Exportable, reusable behaviors.
+- Hundreds of reflection-free conditions & actions.
+- Built-in error prevention, documentation & debug tools.
+- Supports AudioSource, NavMeshAgent, & Animator components.
+- Supports UnityEvents for easy integration with other assets.
+- Custom boolean & float variables.
 
 🍏 Physics Toolkit:
 
-Custom ray cast shapes.
-Memory, targets & filters.
-Object detection algorithms.
-Rigidbody actions.
+- Custom ray cast shapes.
+- Memory, targets & filters.
+- Object detection algorithms.
+- Rigidbody actions.
 
 🌀 Procedural Animation:
 
-Translation, Rotation, Scaling.
-Billboards & custom tween modes.
-Spline paths with multiple spline types.
-Local space & smooth paths.
+- Translation, Rotation, Scaling.
+- Billboards & custom tween modes.
+- Spline paths with multiple spline types.
+- Local space & smooth paths.
 
 ⚡ Managed Entities:
 
-Custom FPS throttling.
-Built-in Object Pooling & spawning.
-Managed update cycles.
-Scale to thousands without DOTS using a component workflow***
+- Custom FPS throttling.
+- Built-in Object Pooling & spawning.
+- Managed update cycles.
+- Scale to thousands without DOTS using a component workflow***
 
 🔥 Bonus Parametric Meshes:
 
-Multiple shape generators.
-Custom procedural mesh creation & debug tools.
-Vertex deformation options.
-Multiple UV unwrapping algorithms.
+- Multiple shape generators.
+- Custom procedural mesh creation & debug tools.
+- Vertex deformation options.
+- Multiple UV unwrapping algorithms.
