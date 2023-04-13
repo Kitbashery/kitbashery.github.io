@@ -7,9 +7,13 @@ permalink: /
 ---
 ![](https://kitbashery.com/assets/images/kitbashery-github-banner.jpg)
 
-<b>Kitbashery professionally develops & maintains a collection of Unity assets as a freemium service.</b>
+<b>Kitbashery professionally develops & maintains a collection of open source & paid middleware for Unity.</b>
 
-## Installation Options:
+## Latest Video:
+
+<iframe width="750" height="550" src="https://www.youtube.com/embed?listType=user_uploads&list=UCuDGSS2kndpqd3PGfdYApjw" frameborder="0" allowfullscreen></iframe> 
+
+## Package Installation Options (GitHub):
 <ol>
 <li>Install an immutable package via openUPM.</li>
 <li>Manual install a mutable package by downloading the dev kit .unitypackage</li>
