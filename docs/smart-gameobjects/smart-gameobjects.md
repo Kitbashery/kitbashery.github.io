@@ -10,6 +10,7 @@ permalink: /docs/smart-gameobjects
 [Unity Asset Store](https://assetstore.unity.com/packages/slug/248930){: .btn }
 [Issue Tracker](https://github.com/Kitbashery/smart-gameobjects-issue-tracker/issues){: .btn }
 [Demo](https://play.unity.com/mg/other/webgl-builds-321457){: .btn }
+[Getting Started](https://kitbashery.com/docs/smart-gameobjects/getting-started.html){: .btn }
 
 <iframe width="740" height="550" src="https://www.youtube.com/embed/EbSKHIubecI"> </iframe>
 
@@ -18,15 +19,6 @@ Smart GameObjects is a real-time visual scripting tool with built-in procedural 
 
 ### Namespace:
 Kitbashery.SmartGO
-
-## Getting Started:
-Right-click the hierarchy and navigate to Kitbashery > Smart GameObject
-If a Smart Manager is not in the scene one will be automatically created.
-
-Alternatively on an existing GameObject you can navigate to Add Component > Kitbashery > Gameplay > Smart GameObject and add it as a component.
-Make sure there is a Smart Manager present in any scene with a SmartGameObject in it.
-
-Instructions can be found by clicking on the (?) help button under the component's header and nearly every field will have a tooltip if you hover over it.
 
 ## Features:
 
