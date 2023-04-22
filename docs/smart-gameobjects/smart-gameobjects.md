@@ -14,6 +14,8 @@ permalink: /docs/smart-gameobjects
 
 <iframe width="740" height="550" src="https://www.youtube.com/embed/EbSKHIubecI"> </iframe>
 
+<iframe width="740" height="550" src="https://www.youtube.com/embed/SAu0SZW_k-4"> </iframe>
+
 ## Description:
 Smart GameObjects is a real-time visual scripting tool with built-in procedural animation and interactivity capabilities.
 
