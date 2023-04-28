@@ -89,22 +89,8 @@ A component for managing logic, interaction and motion of a GameObject.
 | `AudioSource` | audioSrc |  | GetComponent<AudioSource>() |
 | `GameObject` | lastSpawned |  | SmartManager.Singleton.GetPooledObject(action.variableName) |
 | `RaycastTypes` | raycastDebug | Visualize approximations of raycasts based on the current raycast settings. | RaycastTypes.None |
-| `Int32` | toolbarInt |  | 0 |
-| `Int32` | previousPage |  | 0 |
-| `Int32` | pagination |  | 1 |
-| `Boolean` | showConditions |  |  |
-| `Boolean` | showActions |  |  |
-| `Boolean` | showFallbackActions |  |  |
-| `Boolean` | showLogicHelp |  |  |
-| `Boolean` | showInteractionHelp |  |  |
-| `Boolean` | showMotionHelp |  |  |
-| `Boolean` | showCopyright |  |  |
-| `Boolean` | showActivationEvents |  |  |
-| `Boolean` | renaming |  |  |
-| `Boolean` | loadingSO |  | false |
 | `Int32` | conditionType |  |  |
 | `Int32` | actionType |  | 0 |
-
 
 ## Methods:
 
