@@ -10,8 +10,10 @@ permalink: /
 <b>Kitbashery professionally develops & maintains a collection of open source & paid middleware for Unity.</b>
 
 ## Latest Video:
-
+<!-- 
 <iframe width="750" height="550" src="https://www.youtube.com/embed?listType=user_uploads&list=UCuDGSS2kndpqd3PGfdYApjw" frameborder="0" allowfullscreen></iframe> 
+-->
+<iframe width="740" height="550" src="https://www.youtube.com/embed/EbSKHIubecI"> </iframe>
 
 ## Package Installation Options (GitHub):
 <ol>
