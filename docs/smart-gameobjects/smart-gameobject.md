@@ -20,7 +20,7 @@ A component for managing logic, interaction and motion of a GameObject.
 ## Properties:
 
 | Type | Property Name | Summary | Default Value |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Int32 | currentBehavior |  | 0 |
 | Int32 | pathProgress |  | 0 |
 | Boolean | translating |  | false |
@@ -87,7 +87,7 @@ A component for managing logic, interaction and motion of a GameObject.
 | `Boolean` | horizontalLook | If enabled the billboard be constrained to only looking horizontally. | false |
 | `Boolean` | directLook | If enabled the billboard look directly at the target. | true |
 | `AudioSource` | audioSrc |  | GetComponent<AudioSource>() |
-| `GameObject` | lastSpawned |  | SmartManager.Singleton.GetPooledObject(action.variableName) |
+| `GameObject` | lastSpawned |  |  |
 | `RaycastTypes` | raycastDebug | Visualize approximations of raycasts based on the current raycast settings. | RaycastTypes.None |
 | `Int32` | conditionType |  |  |
 | `Int32` | actionType |  | 0 |
