@@ -17,6 +17,8 @@ Alternatively on an existing GameObject you can navigate to Add Component > Kitb
 
 Make sure there is a Smart Manager present in any scene with a SmartGameObject in it.
 
+---
+
 ### Built-in Documentation:
 Detailed instructions can be found by clicking the (?) button under the component's header for each component or component section.
 
@@ -54,10 +56,13 @@ Like all visual scripting solutions, the output will be less efficient than hand
 To ensure your project runs smoothly take try to follow these guidelines:
 
 1) Limit the use of "Delay Next Action" actions, although optimized these use coroutines which generate garbage.
-2) Limit the use of Tweens, the evaluation function of animation curves can generate garbage.
-3) Limit the use of UnityEvents these calls use reflection under the hood instead use SmartActions when you can.
-4) If you have a consistent FPS at or below 30 you may be able to achieve 30-60 again by enabling FPS throttling.
-5) Avoid using distance checks or pathfinding actions without a condition since they can be computationally expensive.
-6) Use the SmartManager's object pools to instantiate objects via spawn actions when many duplicate objects are needed.
 
----
+2) Limit the use of Tweens, the evaluation function of animation curves can generate garbage.
+
+3) Limit the use of UnityEvents these calls use reflection under the hood instead use SmartActions when you can.
+
+4) If you have a consistent FPS at or below 30 you may be able to achieve 30-60 again by enabling FPS throttling.
+
+5) Avoid using distance checks or pathfinding actions without a condition since they can be computationally expensive.
+
+6) Use the SmartManager's object pools to instantiate objects via spawn actions when many duplicate objects are needed.
