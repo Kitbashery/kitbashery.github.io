@@ -7,7 +7,7 @@ permalink: /docs/smart-gameobjects
 ---
 
 # Smart GameObjects
-[Unity Asset Store](https://assetstore.unity.com/packages/slug/248930){: .btn }
+[Unity Forums](https://forum.unity.com/threads/smart-gameobjects-realtime-visual-scripting-physics-toolkit-procedural-animation-released.1410153/){: .btn }
 [Issue Tracker](https://github.com/Kitbashery/smart-gameobjects-issue-tracker/issues){: .btn }
 [Demo](https://play.unity.com/mg/other/webgl-builds-321457){: .btn }
 [Getting Started](https://kitbashery.com/docs/smart-gameobjects/getting-started.html){: .btn }
