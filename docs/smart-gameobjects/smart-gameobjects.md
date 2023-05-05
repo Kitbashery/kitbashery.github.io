@@ -12,6 +12,8 @@ permalink: /docs/smart-gameobjects
 [Demo](https://play.unity.com/mg/other/webgl-builds-321457){: .btn }
 [Getting Started](https://kitbashery.com/docs/smart-gameobjects/getting-started.html){: .btn }
 
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/248930/widget-wide?aid=1100lvf66" style="width:600px; height:130px; border:0px;"></iframe>
+
 <iframe width="740" height="550" src="https://www.youtube.com/embed/EbSKHIubecI"> </iframe>
 
 <iframe width="740" height="550" src="https://www.youtube.com/embed/SAu0SZW_k-4"> </iframe>
