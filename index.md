@@ -9,6 +9,9 @@ permalink: /
 
 <b>Kitbashery professionally develops & maintains a collection of open source & paid middleware for Unity.</b>
 
+<script>
+if (window.innerWidth >= 600)
+{
 ## Latest Video:
 <!-- 
 <iframe width="750" height="550" src="https://www.youtube.com/embed?listType=user_uploads&list=UCuDGSS2kndpqd3PGfdYApjw" frameborder="0" allowfullscreen></iframe> 
@@ -17,6 +20,8 @@ permalink: /
 
 ## Latest Asset:
 <iframe src="https://assetstore.unity.com/linkmaker/embed/package/248930/widget-wide?aid=1100lvf66" style="width:600px; height:130px; border:0px;"></iframe>
+}
+</script>
 
 ## Package Installation Options (GitHub):
 <ol>
