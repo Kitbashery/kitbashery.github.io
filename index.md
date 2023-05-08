@@ -10,17 +10,27 @@ permalink: /
 <b>Kitbashery professionally develops & maintains a collection of open source & paid middleware for Unity.</b>
 
 <script>
-if (window.innerWidth >= 600)
-{
 ## Latest Video:
+if (window.innerWidth >= 750)
+{
 <!-- 
 <iframe width="750" height="550" src="https://www.youtube.com/embed?listType=user_uploads&list=UCuDGSS2kndpqd3PGfdYApjw" frameborder="0" allowfullscreen></iframe> 
 -->
 <iframe width="740" height="550" src="https://www.youtube.com/embed/ls5ppTauxjQ"> </iframe>
-
-## Latest Asset:
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/248930/widget-wide?aid=1100lvf66" style="width:600px; height:130px; border:0px;"></iframe>
 }
+else
+{
+  <iframe width="370" height="275" src="https://www.youtube.com/embed/ls5ppTauxjQ"> </iframe>
+}
+## Latest Asset:
+ if(window.innerWidth >= 600)
+  {
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/248930/widget-wide?aid=1100lvf66" style="width:600px; height:130px; border:0px;"></iframe>
+  }
+  else
+  {
+  <iframe src="https://assetstore.unity.com/linkmaker/embed/package/248930/widget?aid=1100lvf66" style="width:202px; height:260px; border:0px;"></iframe>
+  }
 </script>
 
 ## Package Installation Options (GitHub):
