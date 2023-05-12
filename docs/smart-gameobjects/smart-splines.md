@@ -1,3 +1,10 @@
+---
+layout: default
+title: SmartSplines.cs
+parent: Classes
+grand_parent: Smart GameObjects
+---
+
 # SmartSplines:
 
 ### Namespace:
